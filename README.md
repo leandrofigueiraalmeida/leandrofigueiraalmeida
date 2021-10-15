@@ -1,20 +1,31 @@
-### Hi ! I'm Leandro Figueira de Almeida 👋
+<div>
+ Leandro Figueira de Almeida
+</div> 
+
+### Data Science Projects Portfolio 
+
+
+Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects.
+
+The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
 
 <!--
 **leandrofigueiraalmeida/leandrofigueiraalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
 -->
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+Data Science
+I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+
+Analytical Tools:
+
+Data Collect: Oracle, SQL, MySQL.
+Data Processing and Analysis: Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
+Development: Git.
+Data Visualization: Power BI.
+Machine Learning Modeling: Regression, Clustering.
+Machine Learning Deployment: Heroku
 
  <div>
   <a href="https://github.com/leandrofigueiraalmeida">
