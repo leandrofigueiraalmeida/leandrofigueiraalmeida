@@ -1,4 +1,3 @@
-# Leandro Figueira de Almeida
 # Data Science Projects Portfolio
 
 Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. 
