@@ -83,6 +83,13 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 </div>
   
   
-  
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/leandrofigueiraalmeida/count.svg" />
+ </p>
+
+</p>  
   
   
