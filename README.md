@@ -3,8 +3,11 @@
 Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. 
 
 The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
+
 # Data Science
+
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+
 **Analytical Tools:**
 - **Data Collect:** Oracle, SQL, MySQL.
 - **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
