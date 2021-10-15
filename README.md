@@ -4,6 +4,9 @@ Welcome to my projetcs portfolio. Here you will be able to take a look at all my
 
 The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
 
+ 
+ <br></br> 
+
 # Data Science
 
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
@@ -17,7 +20,8 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 - **Machine Learning Deployment:** Heroku
 
 
-
+ 
+ <br></br> 
 
 # Contacts
     
@@ -27,7 +31,9 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
  	<a href = "mailto:leandro.figueira.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/leandrofigu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  
+ <br></br> 
+ <br></br> 
+ 
 <!--
 **leandrofigueiraalmeida/leandrofigueiraalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
