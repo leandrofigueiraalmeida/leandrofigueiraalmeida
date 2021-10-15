@@ -32,13 +32,12 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
   <a href="https://instagram.com/leandrofigu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
  <br></br> 
- <br></br> 
- 
+  
 <!--
 **leandrofigueiraalmeida/leandrofigueiraalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
+#
 
  <div>
   <a href="https://github.com/leandrofigueiraalmeida">
