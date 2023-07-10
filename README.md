@@ -23,7 +23,9 @@ The objective of these projects is to demonstrate my skills in solving business 
 
 # Data Science
 
-I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+• I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+
+•	Data Scientist with experience in predictive models with Deep Learning, Neural Networks, Linear Regression and Time Series. Development in Python, with data structures, Numpy and Pandas.
 
 **Analytical Tools:**
 - **Data Collect:** Oracle, SQL Server, MySQL.
@@ -43,7 +45,7 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
   <a href="https://www.linkedin.com/in/leandro-figueira-de-almeida-88723459" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href = "mailto:leandro.figueira.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/leandrofigu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  #<a href="https://instagram.com/leandrofigu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
  <br></br> 
  
