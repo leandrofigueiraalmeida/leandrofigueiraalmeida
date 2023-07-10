@@ -7,9 +7,14 @@ The objective of these projects is to demonstrate my skills in solving business 
  
  <br></br> 
 
-# Data Enginner
+# Data Enginner and Data Base Specialist
 
-I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+•	Database Specialist, with extensive experience in SGDB, SQL, PLSQL Oracle, Microsoft SQL Server, MySQL, MariaDB and Postgres.
+
+•	Developer SQL and PL/SQL Oracle, Oracle Forms Report, Microsoft T-SQL and MySql.
+
+•	Data Engineer with experience in SQL, NoSQL, Arquitetura Relacional, Modelo Dimensional, MongoDB, Redis, ETL, Python, Scala, PySpark, Apache HOP, Apache Spark, Apache NiFi, ElasticSearch, Kibana, Alteryx TRIFACTA, PENTAHO PDI, Data Processing Pipeline, Databricks, Parquet, Big Data, Data Lake, Delta Lake, Data Warehouse, Machine Learning, Hadoop, Kinesis, AWS, EC2, CLI, S3, Bucket, Redshift, Data Crawler, Glue, Athena and Power BI.
+
 
 **Analytical Tools:**
 - **Data Collect:** Oracle, SQL Server, MySQL.
