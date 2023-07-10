@@ -7,6 +7,25 @@ The objective of these projects is to demonstrate my skills in solving business 
  
  <br></br> 
 
+# Data Enginner
+
+I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+
+**Analytical Tools:**
+- **Data Collect:** Oracle, SQL Server, MySQL.
+- **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
+- **Development:** Git.
+- **Data Visualization:** Power BI.
+- **Machine Learning Modeling:** Regression, Clustering.
+- **Machine Learning Deployment:** Heroku
+
+
+ 
+ <br></br> 
+
+
+  <br></br> 
+
 # Data Science
 
 I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
