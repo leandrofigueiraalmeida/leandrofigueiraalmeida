@@ -19,8 +19,7 @@ The objective of these projects is to demonstrate my skills in solving business 
  <br></br> 
 
 
-  <br></br> 
-
+ 
 # Data Science
 
 • I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
