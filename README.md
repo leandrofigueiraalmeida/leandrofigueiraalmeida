@@ -1,8 +1,8 @@
-# Data Science Projects and Data Engineer Portfolio
+# Portfolio: Data Engineer / Data Base Speciaist / Data Science Projects 
 
-Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. 
+Welcome to my projetcs portfolio. Here you will be able to take a look at all my data engineer and data science projects. 
 
-The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
+The objective of these projects is to demonstrate my skills in solving business problems using Data Engineer and Data Science.
 
  
  <br></br> 
@@ -14,16 +14,6 @@ The objective of these projects is to demonstrate my skills in solving business 
 •	Developer SQL and PL/SQL Oracle, Oracle Forms Report, Microsoft T-SQL and MySql.
 
 •	Data Engineer with experience in SQL, NoSQL, Arquitetura Relacional, Modelo Dimensional, MongoDB, Redis, ETL, Python, Scala, PySpark, Apache HOP, Apache Spark, Apache NiFi, ElasticSearch, Kibana, Alteryx TRIFACTA, PENTAHO PDI, Data Processing Pipeline, Databricks, Parquet, Big Data, Data Lake, Delta Lake, Data Warehouse, Machine Learning, Hadoop, Kinesis, AWS, EC2, CLI, S3, Bucket, Redshift, Data Crawler, Glue, Athena and Power BI.
-
-
-**Analytical Tools:**
-- **Data Collect:** Oracle, SQL Server, MySQL.
-- **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
-- **Development:** Git.
-- **Data Visualization:** Power BI.
-- **Machine Learning Modeling:** Regression, Clustering.
-- **Machine Learning Deployment:** Heroku
-
 
  
  <br></br> 
